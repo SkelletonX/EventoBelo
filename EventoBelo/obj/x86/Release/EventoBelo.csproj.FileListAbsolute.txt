@@ -1,0 +1,8 @@
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\bin\Release\EventoBelo.exe.config
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\bin\Release\EventoBelo.exe
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\bin\Release\EventoBelo.pdb
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\obj\x86\Release\EventoBelo.Form1.resources
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\obj\x86\Release\EventoBelo.Properties.Resources.resources
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\obj\x86\Release\EventoBelo.csproj.GenerateResource.Cache
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\obj\x86\Release\EventoBelo.exe
+C:\Users\mgp\Desktop\EventoBelo\EventoBelo\EventoBelo\obj\x86\Release\EventoBelo.pdb
